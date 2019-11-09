@@ -38,10 +38,16 @@ import statements. Then, utilize the `RoundedRect` component the same way you wo
 ```
 would be a valid input.
 ### Props
-The component takes the following props
-| Name | Default | Description |
-|--------|---------|-------------|
-| x | 0 | |
-| y | 0 | |
-| height | 10 | |
-
+The component takes the following props  
+  
+| Name        | Default       | Description |  
+|-------------|---------------|-------------|  
+| x           | 0             |             |  
+| y           | 0             |             |  
+| height      | 10            |             |  
+| width       | 10            |             |  
+| height      | 10            |             |  
+| curve       | 10            |             |  
+| stroke      | `transparent` |             |  
+| fill        | `transparent` |             |  
+| strokeWidth | 0             |             |  
