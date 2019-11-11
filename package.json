@@ -1,6 +1,6 @@
 {
   "name": "@jjrmich/rounded-rectangle",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "This package works with react-native-svg to allow for simple rendering of rectangles with two rounded corners at the bottom",
   "main": "index.js",
   "repository": {
@@ -13,5 +13,14 @@
     "react": "^16.11.0",
     "react-native": "^0.61.4",
     "react-native-svg": "^9.13.3"
-  }
+  },
+  "keywords": [
+    "react-native-svg",
+    "rectangle",
+    "svg",
+    "react-native",
+    "supplemental",
+    "shapes",
+    "rounded rectangle"
+  ]
 }
